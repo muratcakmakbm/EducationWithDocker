@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  educationdb:
+    image: postgres
+  
+  cachedb:
+    image: redis:alpine
+
+  education.api:
+    image: ${DOCKER_REGISTRY-}educationapi
+    build:
+      context: .
+      dockerfile: Education.API\Dockerfile
+
+  ocelotapigw:
+    image: ${DOCKER_REGISTRY-}ocelotapigw
+    build:
+      context: .
+      dockerfile: Education.ApiGateway/Dockerfile
+
+volumes:
+  postgres_data:
+  pgadmin_data:

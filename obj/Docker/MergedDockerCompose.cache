@@ -1,0 +1,89 @@
+name: dockercompose6770212065720952684
+services:
+  cachedb:
+    container_name: cachedb
+    image: redis:alpine
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 6379
+      published: "6379"
+      protocol: tcp
+    restart: always
+  education.api:
+    build:
+      context: C:\Education\Education
+      dockerfile: Education.API\Dockerfile
+    container_name: education.api
+    depends_on:
+      cachedb:
+        condition: service_started
+      educationdb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      ApiSettings:GatewayAddress: http://ocelotapigw
+      CacheSettings:ConnectionString: cachedb:6379
+      DatabaseSettings:ConnectionString: Server=educationdb;Port=5432;Database=Education;User
+        Id=admin;Password=admin1234;
+    image: educationapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "5010"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\murat.cakmak2\AppData\Roaming/ASP.NET/Https
+      target: C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https
+      read_only: true
+      bind:
+        create_host_path: true
+  educationdb:
+    container_name: educationdb
+    environment:
+      POSTGRES_DB: Education
+      POSTGRES_PASSWORD: admin1234
+      POSTGRES_USER: admin
+    image: postgres
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5432
+      published: "5432"
+      protocol: tcp
+    restart: always
+    volumes:
+    - type: volume
+      source: postgres_data
+      target: /var/lib/postgresql/data
+      volume: {}
+  ocelotapigw:
+    build:
+      context: C:\Education\Education
+      dockerfile: Education.ApiGateway/Dockerfile
+    container_name: ocelotapigw
+    depends_on:
+      education.api:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ocelotapigw
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "8010"
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose6770212065720952684_default
+volumes:
+  postgres_data:
+    name: dockercompose6770212065720952684_postgres_data

@@ -1,0 +1,45 @@
+version: '3.4'
+
+services:
+  educationdb:
+    container_name: educationdb
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=admin1234
+      - POSTGRES_DB=Education
+    restart: always
+    ports:
+        - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+
+  cachedb:
+    container_name: cachedb
+    restart: always    
+    ports:
+        - "6379:6379"
+
+  education.api:
+    container_name: education.api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+      - "DatabaseSettings:ConnectionString=Server=educationdb;Port=5432;Database=Education;User Id=admin;Password=admin1234;"
+      - "CacheSettings:ConnectionString=cachedb:6379"
+      - "ApiSettings:GatewayAddress=http://ocelotapigw"
+    depends_on:
+      - cachedb
+      - educationdb
+    ports:
+      - "5010:80"
+    volumes:
+      - ${APPDATA}/ASP.NET/Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
+
+  ocelotapigw:
+    container_name: ocelotapigw
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+        - education.api
+    ports:
+      - "8010:80"

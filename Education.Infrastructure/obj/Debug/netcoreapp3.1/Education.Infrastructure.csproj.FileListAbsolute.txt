@@ -1,0 +1,16 @@
+C:\Education\Education\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Infrastructure.deps.json
+C:\Education\Education\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Infrastructure.runtimeconfig.json
+C:\Education\Education\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Infrastructure.runtimeconfig.dev.json
+C:\Education\Education\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Infrastructure.dll
+C:\Education\Education\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Infrastructure.pdb
+C:\Education\Education\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Domain.dll
+C:\Education\Education\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Domain.pdb
+C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.csproj.AssemblyReference.cache
+C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.AssemblyInfoInputs.cache
+C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.AssemblyInfo.cs
+C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.csproj.CopyComplete
+C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.dll
+C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.pdb
+C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Education\Education\Education.Domain\bin\Debug\netcoreapp3.1\Education.Domain.deps.json
+C:\Education\Education\Education.Domain\bin\Debug\netcoreapp3.1\Education.Domain.dll
+C:\Education\Education\Education.Domain\bin\Debug\netcoreapp3.1\Education.Domain.pdb
+C:\Education\Education\Education.Domain\obj\Debug\netcoreapp3.1\Education.Domain.csproj.AssemblyReference.cache
+C:\Education\Education\Education.Domain\obj\Debug\netcoreapp3.1\Education.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\Education\Education.Domain\obj\Debug\netcoreapp3.1\Education.Domain.AssemblyInfoInputs.cache
+C:\Education\Education\Education.Domain\obj\Debug\netcoreapp3.1\Education.Domain.AssemblyInfo.cs
+C:\Education\Education\Education.Domain\obj\Debug\netcoreapp3.1\Education.Domain.csproj.CoreCompileInputs.cache
+C:\Education\Education\Education.Domain\obj\Debug\netcoreapp3.1\Education.Domain.dll
+C:\Education\Education\Education.Domain\obj\Debug\netcoreapp3.1\Education.Domain.pdb

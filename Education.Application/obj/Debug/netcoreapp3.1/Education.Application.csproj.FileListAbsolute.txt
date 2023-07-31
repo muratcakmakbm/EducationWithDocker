@@ -1,0 +1,13 @@
+C:\Education\Education\Education.Application\bin\Debug\netcoreapp3.1\Education.Application.deps.json
+C:\Education\Education\Education.Application\bin\Debug\netcoreapp3.1\Education.Application.dll
+C:\Education\Education\Education.Application\bin\Debug\netcoreapp3.1\Education.Application.pdb
+C:\Education\Education\Education.Application\bin\Debug\netcoreapp3.1\Education.Domain.dll
+C:\Education\Education\Education.Application\bin\Debug\netcoreapp3.1\Education.Domain.pdb
+C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.csproj.AssemblyReference.cache
+C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.AssemblyInfoInputs.cache
+C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.AssemblyInfo.cs
+C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.csproj.CoreCompileInputs.cache
+C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.csproj.CopyComplete
+C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.dll
+C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.pdb
