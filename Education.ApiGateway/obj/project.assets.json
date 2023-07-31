@@ -583,11 +583,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Education\\Education\\Education.ApiGateway\\Education.ApiGateway.csproj",
+      "projectUniqueName": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.ApiGateway\\Education.ApiGateway.csproj",
       "projectName": "Education.ApiGateway",
-      "projectPath": "C:\\Education\\Education\\Education.ApiGateway\\Education.ApiGateway.csproj",
+      "projectPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.ApiGateway\\Education.ApiGateway.csproj",
       "packagesPath": "C:\\Users\\murat.cakmak2\\.nuget\\packages\\",
-      "outputPath": "C:\\Education\\Education\\Education.ApiGateway\\obj\\",
+      "outputPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.ApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

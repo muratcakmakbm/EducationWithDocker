@@ -1235,11 +1235,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Education\\Education\\Education.Infrastructure\\Education.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.Infrastructure\\Education.Infrastructure.csproj",
       "projectName": "Education.Infrastructure",
-      "projectPath": "C:\\Education\\Education\\Education.Infrastructure\\Education.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.Infrastructure\\Education.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\murat.cakmak2\\.nuget\\packages\\",
-      "outputPath": "C:\\Education\\Education\\Education.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1258,8 +1258,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Education\\Education\\Education.Domain\\Education.Domain.csproj": {
-              "projectPath": "C:\\Education\\Education\\Education.Domain\\Education.Domain.csproj"
+            "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.Domain\\Education.Domain.csproj": {
+              "projectPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.Domain\\Education.Domain.csproj"
             }
           }
         }

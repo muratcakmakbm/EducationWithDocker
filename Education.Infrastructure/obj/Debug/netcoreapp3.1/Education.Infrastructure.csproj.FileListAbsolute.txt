@@ -14,3 +14,19 @@ C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Educatio
 C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.dll
 C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.pdb
 C:\Education\Education\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.genruntimeconfig.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Infrastructure.deps.json
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Infrastructure.runtimeconfig.json
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Infrastructure.runtimeconfig.dev.json
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Infrastructure.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Infrastructure.pdb
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Domain.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\bin\Debug\netcoreapp3.1\Education.Domain.pdb
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.AssemblyInfo.cs
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.csproj.CopyComplete
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.pdb
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Infrastructure\obj\Debug\netcoreapp3.1\Education.Infrastructure.genruntimeconfig.cache

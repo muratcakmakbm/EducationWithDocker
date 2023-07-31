@@ -29,3 +29,34 @@ C:\Education\Education\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.Ap
 C:\Education\Education\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.dll
 C:\Education\Education\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.pdb
 C:\Education\Education\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.genruntimeconfig.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Education.ApiGateway.exe
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Education.ApiGateway.deps.json
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Education.ApiGateway.runtimeconfig.json
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Education.ApiGateway.runtimeconfig.dev.json
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Education.ApiGateway.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Education.ApiGateway.pdb
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.AssemblyInfo.cs
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\staticwebassets\Education.ApiGateway.StaticWebAssets.Manifest.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.RazorTargetAssemblyInfo.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.csproj.CopyComplete
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.pdb
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway\obj\Debug\netcoreapp3.1\Education.ApiGateway.genruntimeconfig.cache

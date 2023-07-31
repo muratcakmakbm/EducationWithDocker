@@ -14,8 +14,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=c:\.nuget\fallbackpackages
     volumes:
-      - C:\Education\Education\Education.API:C:\app
-      - C:\Education\Education:C:\src
+      - C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.API:C:\app
+      - C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker:C:\src
       - C:\Users\murat.cakmak2\onecoremsvsmon\17.1.1414.0:C:\remote_debugger:ro
       - C:\Users\murat.cakmak2\.nuget\packages\:c:\.nuget\packages:ro
       - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:c:\.nuget\fallbackpackages:ro
@@ -42,8 +42,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=c:\.nuget\fallbackpackages
     volumes:
-      - C:\Education\Education\Education.ApiGateway:C:\app
-      - C:\Education\Education:C:\src
+      - C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.ApiGateway:C:\app
+      - C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker:C:\src
       - C:\Users\murat.cakmak2\onecoremsvsmon\17.1.1414.0:C:\remote_debugger:ro
       - C:\Users\murat.cakmak2\.nuget\packages\:c:\.nuget\packages:ro
       - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:c:\.nuget\fallbackpackages:ro

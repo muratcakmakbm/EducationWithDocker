@@ -1,4 +1,4 @@
-name: dockercompose6770212065720952684
+name: dockercompose1423358806817787947
 services:
   cachedb:
     container_name: cachedb
@@ -13,7 +13,7 @@ services:
     restart: always
   education.api:
     build:
-      context: C:\Education\Education
+      context: C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker
       dockerfile: Education.API\Dockerfile
     container_name: education.api
     depends_on:
@@ -65,7 +65,7 @@ services:
       volume: {}
   ocelotapigw:
     build:
-      context: C:\Education\Education
+      context: C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker
       dockerfile: Education.ApiGateway/Dockerfile
     container_name: ocelotapigw
     depends_on:
@@ -83,7 +83,7 @@ services:
       protocol: tcp
 networks:
   default:
-    name: dockercompose6770212065720952684_default
+    name: dockercompose1423358806817787947_default
 volumes:
   postgres_data:
-    name: dockercompose6770212065720952684_postgres_data
+    name: dockercompose1423358806817787947_postgres_data

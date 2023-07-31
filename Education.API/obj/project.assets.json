@@ -1341,11 +1341,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Education\\Education\\Education.API\\Education.API.csproj",
+      "projectUniqueName": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.API\\Education.API.csproj",
       "projectName": "Education.API",
-      "projectPath": "C:\\Education\\Education\\Education.API\\Education.API.csproj",
+      "projectPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.API\\Education.API.csproj",
       "packagesPath": "C:\\Users\\murat.cakmak2\\.nuget\\packages\\",
-      "outputPath": "C:\\Education\\Education\\Education.API\\obj\\",
+      "outputPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1364,11 +1364,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Education\\Education\\Education.Application\\Education.Application.csproj": {
-              "projectPath": "C:\\Education\\Education\\Education.Application\\Education.Application.csproj"
+            "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.Application\\Education.Application.csproj": {
+              "projectPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.Application\\Education.Application.csproj"
             },
-            "C:\\Education\\Education\\Education.Infrastructure\\Education.Infrastructure.csproj": {
-              "projectPath": "C:\\Education\\Education\\Education.Infrastructure\\Education.Infrastructure.csproj"
+            "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.Infrastructure\\Education.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.Infrastructure\\Education.Infrastructure.csproj"
             }
           }
         }

@@ -11,3 +11,16 @@ C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.A
 C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.csproj.CopyComplete
 C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.dll
 C:\Education\Education\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.pdb
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\bin\Debug\netcoreapp3.1\Education.Application.deps.json
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\bin\Debug\netcoreapp3.1\Education.Application.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\bin\Debug\netcoreapp3.1\Education.Application.pdb
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\bin\Debug\netcoreapp3.1\Education.Domain.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\bin\Debug\netcoreapp3.1\Education.Domain.pdb
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.csproj.AssemblyReference.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.AssemblyInfoInputs.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.AssemblyInfo.cs
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.csproj.CoreCompileInputs.cache
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.csproj.CopyComplete
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.dll
+C:\Users\murat.cakmak2\Desktop\New folder (3)\deneme\EducationWithDocker\Education.Application\obj\Debug\netcoreapp3.1\Education.Application.pdb

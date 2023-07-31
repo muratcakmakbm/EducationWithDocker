@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FDVvtLiAQ4qpEWl5hDIWh746XELD5i9t4nKQeHeiEkOKAOsPT3E143wr5zhKhoqRY+llXKwNAPM04QCN+2FeOw==",
+  "dgSpecHash": "y8jrdYPq6PlasOMNxDIad8dC4IoGw0vEM/idCu0wUmi0OWJoEbmQawpibuFWdjQQCEMtxouXNTqteVMEV4nelw==",
   "success": true,
-  "projectFilePath": "C:\\Education\\Education\\Education.ApplicationTests\\Education.ApplicationTests.csproj",
+  "projectFilePath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.ApplicationTests\\Education.ApplicationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\murat.cakmak2\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\murat.cakmak2\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

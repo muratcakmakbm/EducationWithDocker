@@ -6711,11 +6711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Education\\Education\\Education.ApplicationTests\\Education.ApplicationTests.csproj",
+      "projectUniqueName": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.ApplicationTests\\Education.ApplicationTests.csproj",
       "projectName": "Education.ApplicationTests",
-      "projectPath": "C:\\Education\\Education\\Education.ApplicationTests\\Education.ApplicationTests.csproj",
+      "projectPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.ApplicationTests\\Education.ApplicationTests.csproj",
       "packagesPath": "C:\\Users\\murat.cakmak2\\.nuget\\packages\\",
-      "outputPath": "C:\\Education\\Education\\Education.ApplicationTests\\obj\\",
+      "outputPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.ApplicationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6734,8 +6734,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Education\\Education\\Education.Application\\Education.Application.csproj": {
-              "projectPath": "C:\\Education\\Education\\Education.Application\\Education.Application.csproj"
+            "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.Application\\Education.Application.csproj": {
+              "projectPath": "C:\\Users\\murat.cakmak2\\Desktop\\New folder (3)\\deneme\\EducationWithDocker\\Education.Application\\Education.Application.csproj"
             }
           }
         }
